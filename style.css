@@ -1,0 +1,36 @@
+body{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-color: bisque;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight:8rem;
+    font-style:normal;
+    
+
+}
+.social-links
+{
+    display:flex;
+    list-style-type:none;
+    justify-content:space-around; 
+
+}
+
+.social-image{
+    width:4rem;
+    padding:20px;
+    
+}
+.mycontainer
+{
+    background-color:cadetblue;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding:5rem;
+    border:solid 1rem black;
+}
